@@ -1,43 +1,56 @@
 Profile Summary:
-Passionate about Machine Learning, Data Science, and Mathematics. Committed to exploring the intersection of these domains through practical projects and contributions to open-source communities.
+
+			Passionate about Machine Learning, Data Science, and Mathematics. Committed to exploring the intersection of these domains through practical projects and contributions to more mathematical domains.
 
 Bio:
 
-🤖 Machine Learning Enthusiast
-📊 Data Science Practitioner
-🧮 Math Lover
+	🤖 Machine Learning Enthusiast
+	📊 Data Science Practitioner
+	🧮 Math Lover
 
 
 Skills:
 
-Machine Learning
-Data Analysis
-Mathematics
-Python
-Data Visualization
-Deep Learning
-Statistics
-Jupyter Notebooks
+	Machine Learning
+	Data Analysis
+	Mathematics
+	Python
+	Data Visualization
+	Deep Learning
+	Statistics
+	Jupyter Notebooks
 
 Repositories:
 
+		1. number plate : https://github.com/kunal2026/Number_plate_detection
+		2. face_reccognition : https://github.com/kunal2026/Face_recognition
+		3. sangam : https://github.com/kunal2026/Sangam_site1
+		4. sangam1 : https://github.com/kunal2026/Sangam_site
 
-LinkedIn
-Twitter
+Contacts :
+
+		LinkedIn : https://www.linkedin.com/in/kunal-mukherjee-447300251
+		Instagram : https://www.linkedin.com/in/kunal-mukherjee-447300251
+
+
 Awards and Honors:
 
-Mention any relevant awards or certifications you've received.
-Contributions:
+ 	1. IIT BOMBAY SPACE COURSE COMPLETION.
+	2. SPOKEN TUTORIAL FOR LANGUANGE TEST.
+    	I. Python
+		II. c++
+	 III. c
+	3. NAEST zonal round.
+ 	4. Branch Rank holder in college
 
-Mention any open-source projects you've contributed to or organizations you've collaborated with.
+
 Education:
 
-List your educational background, especially if it's related to ML, Data Science, or Mathematics.
-Favorite Books:
+		I have been learning data science from NPTEL course.
+	  I have been learning ML as of college department and from other courses.
+		
 
-Share some of your favorite books related to your interests.
-Remember to keep your GitHub profile updated with your latest projects and contributions. This profile template provides a good starting point, but feel free to customize it to reflect your unique interests and accomplishments.
-
+		
 
 
 
