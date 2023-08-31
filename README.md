@@ -37,9 +37,9 @@ Awards and Honors:
 
  	1. IIT BOMBAY SPACE COURSE COMPLETION.
 	2. SPOKEN TUTORIAL FOR LANGUANGE TEST.
-    	I. Python
-		II. c++
-	 III. c
+		1. Python
+		2. c++
+		3. c
 	3. NAEST zonal round.
  	4. Branch Rank holder in college
 
