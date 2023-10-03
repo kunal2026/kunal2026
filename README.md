@@ -31,6 +31,7 @@ Contacts :
 
 		LinkedIn : https://www.linkedin.com/in/kunal-mukherjee-447300251
 		Instagram : https://www.linkedin.com/in/kunal-mukherjee-447300251
+  		E-mail : km820366@gmail.com
 
 
 Awards and Honors:
