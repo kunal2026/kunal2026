@@ -18,7 +18,6 @@ Skills:
 	Data Visualization
 	Deep Learning
 	Statistics
-	Jupyter Notebooks
 
 Repositories:
 
