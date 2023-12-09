@@ -16,7 +16,6 @@ Skills:
 	Mathematics
 	Python
 	Data Visualization
-	Deep Learning
 	Statistics
 
 Repositories:
