@@ -32,7 +32,7 @@ Contacts :
   		E-mail : km820366@gmail.com
 
 
-Awards and Honors:
+Achievements:
 
  	1. IIT BOMBAY SPACE COURSE COMPLETION.
 	2. SPOKEN TUTORIAL FOR LANGUANGE TEST.
@@ -41,7 +41,11 @@ Awards and Honors:
 		3. c
 	3. NAEST zonal round.
  	4. Branch Rank holder in college
+  [![VauntCommunity](https://api.vaunt.dev/v1/github/entities/kunal2026/badges/community)](https://community.vaunt.dev/board/kunal2026)
 
+<p>
+    <img src="https://api.vaunt.dev/v1/github/entities/kunal2026/achievements?format=svg&limit=3&raw=true" width="350" />
+</p>
 
 Education:
 
