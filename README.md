@@ -46,11 +46,12 @@ Awards and Honors:
 Education:
 
 		I have been learning data science from NPTEL course.
-	  I have been learning ML as of college department and from other courses.
-<p>
-  <img src="https://api.vaunt.dev/v1/github/entities/kunal2026/achievements?format=svg&limit=3" width="350" />
-</p>
+	 	I have been learning ML as of college department and from other courses.
 
+
+<p>
+    <img src="https://api.vaunt.dev/v1/github/entities/kunal20267/achievements?format=svg&limit=3&raw=true" width="350" />
+</p>
 		
 
 
