@@ -53,10 +53,7 @@ Education:
 	 	I have been learning ML as of college department and from other courses.
 
 
-<p>
-    <img src="https://api.vaunt.dev/v1/github/entities/kunal2026/achievements?format=svg&limit=3&raw=true" width="350" />
-</p>
-		
+	
 
 
 
