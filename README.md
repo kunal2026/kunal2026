@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal mukherjee</h1>
 <h3 align="center">Passionate about Machine Learning, Data Science, and Mathematics. Committed to exploring the intersection of these domains through practical projects and contributions to more mathematical domains.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal2026&label=Profile%20views&color=0e75b6&style=flat" alt="kunal2026" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal2026" alt="kunal2026" /></a> </p>
 
 - 🌱 I’m currently learning **Tensorflow,Rust**
 
@@ -27,7 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal2026&show_icons=true&locale=en" alt="kunal2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2026&" alt="kunal2026" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal2026&label=Profile%20views&color=0e75b6&style=flat" alt="kunal2026" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal2026" alt="kunal2026" /></a> </p>
 
 <h3>
 	Achievements:
