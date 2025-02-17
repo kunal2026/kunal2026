@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal mukherjee</h1>
-<h3 align="center">Passionate about Machine Learning, Data Science, and Mathematics. Committed to exploring the intersection of these domains through practical projects and contributions to more mathematical domains.</h3>
+<h3 align="center">Passionate about Machine Learning, Data Science, and Mathematics. Committed to exploring these domains through practical projects and contributions.</h3>
 
 
 
