@@ -32,14 +32,13 @@
 <h3>
 	Achievements:
 
- 	1. IIT BOMBAY SPACE COURSE COMPLETION.
-	2. SPOKEN TUTORIAL FOR LANGUANGE TEST.
-		1. Python
-		2. c++
-		3. c
-	3. NAEST zonal round.
- 	4. Branch Rank holder in college
-        5. National rank holder in NSTSE.
+	- Academic Excellence Award in Institution
+	- Secured AIR 40 in NSTSE, Rank 1 in Physics.
+	- IITBX Course - Completed the soft skill course by the Indian Institute of Technology, Bombay
+	- Worked on 6G antenna optimizer and early assessment of cognitive degradation as a volunteer project.
+	- Qualified for finals of IC HACKS 2.0 and Defy' 24 Finalist
+	- Microsoft Azure AI-900 certification
+	- Cisco Networking Basics certification
 
  </h3>
 
@@ -50,9 +49,7 @@
 </p>
 <h3>
 	Education:
-
-		I have been learning data science from NPTEL course.
-	 	I have been learning ML as of college department and from other courses.
+                B.Tech in Computer Science and Engineering (AI & ML), Vellore Institute of Technology, Chennai
 
 
 </h3>
