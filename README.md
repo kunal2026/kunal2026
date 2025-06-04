@@ -47,6 +47,8 @@
 <p>
     <img src="https://api.vaunt.dev/v1/github/entities/kunal2026/achievements?format=svg&limit=3&raw=true" width="350" />
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kunal-mukherjee-447300251" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kunal-mukherjee-447300251?trk=profile-badge">KUNAL MUKHERJEE</a></div>
 <h3>
 	Education:
                 B.Tech in Computer Science and Engineering (AI & ML), Vellore Institute of Technology, Chennai
